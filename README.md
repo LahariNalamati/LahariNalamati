@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-- 🔭 Currently building **CareerAI** — a platform to transform personalized learning and development.
+- 🔭 Currently building **CareerAI** — a platform for career developemt..
 - 🌱 Learning: **LangChain**, **Spring Security**.
 - 🤝 Looking to collaborate on an **AI-Powered Recruitment Bot**.
 - 💬 Ask me about: **React**,**Node**,**Java**, **Spring Boot**, **LangChain**, and **Java Backend Dev**.
